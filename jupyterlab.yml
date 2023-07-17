@@ -1,0 +1,26 @@
+name: jupyterlab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10  # for jupyter-ai
+  - jupyterlab<4.0  # for jupyter-ai & jupytext
+  - black
+  - isort
+  - ruff
+  - jupyterlab-lsp
+  - python-lsp-server
+  - jupyterlab_code_formatter 
+  - jupyterlab-git
+  - nodejs
+  - pyviz_comms
+  - jupyter_bokeh
+  - jupytext
+  - jupyter-resource-usage
+  - jupyterlab-fileopen
+  - jupyter-collaboration
+  - ipywidgets
+  - openai
+  - pip
+  - pip:
+    - jupyter-ai
+    - jupyterlab-quarto

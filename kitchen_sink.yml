@@ -1,0 +1,40 @@
+name: kitchen_sink
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - ipykernel
+  - numpy
+  - scipy
+  - polars
+  - xarray
+  - pandas
+  - numexpr
+  - numba
+  - cython
+  - attrs
+  - cattrs
+  - matplotlib
+  - seaborn
+  - holoviews
+  - holoviews
+  - hvplot
+  - panel
+  - datashader
+  - dask
+  - joblib
+  - mpi4py
+  - python-duckdb
+  - pyarrow
+  - h5py
+  - pymc3
+  - scikit-learn
+  - scikit-optimize
+  - scikit-image
+  - opencv
+  - pillow
+  - typer
+  - rich
+  - tqdm
+  - ipynbname
+  - pip
