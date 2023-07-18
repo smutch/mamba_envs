@@ -17,7 +17,6 @@ dependencies:
   - jupytext
   - jupyter-resource-usage
   - jupyterlab-fileopen
-  - jupyter-collaboration
   - ipywidgets
   - openai
   - pip
