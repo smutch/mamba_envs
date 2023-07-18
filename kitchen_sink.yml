@@ -27,7 +27,7 @@ dependencies:
   - python-duckdb
   - pyarrow
   - h5py
-  - pymc3
+  - pymc
   - scikit-learn
   - scikit-optimize
   - scikit-image
